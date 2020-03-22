@@ -2,26 +2,26 @@
 ***
 Android app for Recipe Recommendations
 
-## Splash screen
-***
-![Alt](screenshot_1.png)
-
-## Splash screen
+## Main screen: a recipe and its similar recipes
 ***
 ![Alt](screenshot_2.png)
 
-## Splash screen
+## Search
 ***
 ![Alt](screenshot_3.png)
 
-## Splash screen
+## Result: a recipe and its similar recipes
 ***
 ![Alt](screenshot_4.png)
 
-## Splash screen
+## Another example: a recipe and its similar recipes
 ***
 ![Alt](screenshot_5.png)
 
-## Splash screen
+## Steps of a recipe, with text-to-speech feature and link to the recipe
 ***
 ![Alt](screenshot_6.png)
+
+## Splash screen
+***
+![Alt](screenshot_1.png)
